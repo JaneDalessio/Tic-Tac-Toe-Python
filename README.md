@@ -1,3 +1,5 @@
+# Tic-Tac-Toe Python Game - Introduction to Computing 
+A beginner Python project from my freshman-year Introduction to Computing course, built to practice core programming fundamentals.
 ## How to Run
  
 1. Clone the repository:
